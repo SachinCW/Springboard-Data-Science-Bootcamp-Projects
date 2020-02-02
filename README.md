@@ -17,4 +17,12 @@ This assignment helped reinforce the concepts of Data Wrangling and sharpen the 
 **Mini_Project_Wrangling_Json_Exercise.ipynb :**
 
 This project dealt with data wrangling using JSON files as source and helped get familiar with packages for dealing with JSON.
+
+**Mini_Project_SQL_with_Spark.ipynb :**
+
+This project dealt with getting familiar with Spark SQL.
+Spark SQL is a Spark module for structured data processing. It provides a programming abstraction called DataFrames and can also act as a distributed SQL query engine. It enables unmodified Hadoop Hive queries to run up to 100x faster on existing deployments and data. It also provides powerful integration with the rest of the Spark ecosystem (e.g., integrating SQL query processing with machine learning).
+It brings native support for SQL to Spark and streamlines the process of querying data stored both in RDDs (Spark’s distributed datasets) and in external sources. Spark SQL conveniently blurs the lines between RDDs and relational tables. Unifying these powerful abstractions makes it easy for developers to intermix SQL commands querying external data with complex analytics, all within in a single application. 
+
+
     
