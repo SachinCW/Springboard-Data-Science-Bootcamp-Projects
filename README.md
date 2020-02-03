@@ -31,4 +31,14 @@ Typically, server logs are a very common data source in enterprises and often co
 
 Spark allows you to dump and store your logs in files on disk cheaply, while still providing rich APIs to perform data analysis at scale. This project showed how to use Apache Spark on real-world production logs from NASA and learn data wrangling and basic yet powerful techniques in exploratory data analysis.
 
+**Mini_Project_Linear_Regression.ipynb :**
+This project dealt with Linear Regression using Boston Housing Dataset. Predicting housing prices using the dataset provided was the goal of this project. Exploratory data analysis was conducted and the features having good correlation with the house price were choosen for predicion using Linear Regression
+
+**Mini_Project_Logistic_Regression.ipynb :**
+Goal of this project was to understand Logistic Regression Algorithm and its application.
+
+**Mini_Project_Clustering.ipynb :**
+Goal of this project was to apply k-means clustering algorithm to perform customer segmentation.
+
+
     
