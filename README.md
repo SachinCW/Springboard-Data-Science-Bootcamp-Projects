@@ -40,5 +40,9 @@ Goal of this project was to understand Logistic Regression Algorithm and its app
 **Mini_Project_Clustering.ipynb :**
 Goal of this project was to apply k-means clustering algorithm to perform customer segmentation.
 
+**Mini_Project_Tree_Based_Algorithms  :**
+This project involved using Tree based algorithms such as Decision Tree Classifier to perform classification.
 
+**Spark ML Mini-Project :** 
+This project involved working on different Machine Learning Algorithms using Spark ML.
     
